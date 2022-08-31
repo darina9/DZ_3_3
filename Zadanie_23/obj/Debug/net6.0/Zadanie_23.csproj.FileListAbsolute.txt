@@ -1,0 +1,15 @@
+C:\мое обучение\DZ_3\Zadanie_23\obj\Debug\net6.0\Zadanie_23.csproj.AssemblyReference.cache
+C:\мое обучение\DZ_3\Zadanie_23\obj\Debug\net6.0\Zadanie_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\мое обучение\DZ_3\Zadanie_23\obj\Debug\net6.0\Zadanie_23.AssemblyInfoInputs.cache
+C:\мое обучение\DZ_3\Zadanie_23\obj\Debug\net6.0\Zadanie_23.AssemblyInfo.cs
+C:\мое обучение\DZ_3\Zadanie_23\obj\Debug\net6.0\Zadanie_23.csproj.CoreCompileInputs.cache
+C:\мое обучение\DZ_3\Zadanie_23\bin\Debug\net6.0\Zadanie_23.exe
+C:\мое обучение\DZ_3\Zadanie_23\bin\Debug\net6.0\Zadanie_23.deps.json
+C:\мое обучение\DZ_3\Zadanie_23\bin\Debug\net6.0\Zadanie_23.runtimeconfig.json
+C:\мое обучение\DZ_3\Zadanie_23\bin\Debug\net6.0\Zadanie_23.dll
+C:\мое обучение\DZ_3\Zadanie_23\bin\Debug\net6.0\Zadanie_23.pdb
+C:\мое обучение\DZ_3\Zadanie_23\obj\Debug\net6.0\Zadanie_23.dll
+C:\мое обучение\DZ_3\Zadanie_23\obj\Debug\net6.0\refint\Zadanie_23.dll
+C:\мое обучение\DZ_3\Zadanie_23\obj\Debug\net6.0\Zadanie_23.pdb
+C:\мое обучение\DZ_3\Zadanie_23\obj\Debug\net6.0\Zadanie_23.genruntimeconfig.cache
+C:\мое обучение\DZ_3\Zadanie_23\obj\Debug\net6.0\ref\Zadanie_23.dll
